@@ -1,0 +1,11 @@
+create database legends_db;
+
+create table employees
+(
+id int,
+name varchar(50)
+);
+
+create table 
+INSERT INTO employees (id, name, gender, age, designation, salary)
+VALUES(1,'Ammar','Male',22,'Manager',24000);
